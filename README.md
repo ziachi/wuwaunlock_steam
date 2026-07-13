@@ -1,6 +1,9 @@
 # 🎮 WuWa Unlock Steam
 
+
+```bash
 Based on [WuWa_Simple_FPSUnlocker](https://github.com/WakuWakuPadoru/WuWa_Simple_FPSUnlocker) by [WakuWakuPadoru](https://github.com/WakuWakuPadoru). Original project supports both FPS unlock and Raytracing settings for the standalone launcher version.
+````
 
 **Wuthering Waves FPS Unlocker — Steam Edition**
 
