@@ -7,6 +7,7 @@ If you are using a non-Steam version, you can specify your path in two ways:
 * **Interactive Prompt:** Select your game directory manually via the Python CLI when running the script.
 * **Source Code:** Modify the default path variable directly within the source code before execution.
 
+✅ **Tested & Working on:** Wuthering Waves Version 3.5
 
 
 This project is based on **[WuWa_Simple_FPSUnlocker](https://github.com/WakuWakuPadoru/WuWa_Simple_FPSUnlocker)** by **[WakuWakuPadoru](https://github.com/WakuWakuPadoru)**.
